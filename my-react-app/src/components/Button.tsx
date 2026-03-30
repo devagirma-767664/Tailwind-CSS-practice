@@ -1,7 +1,7 @@
 import React from "react";
 
 const VARIANT_STYLES = {
-  primary: 'bg-blue-500 hover:bg-blue-600 text-white <focus:ring-blue-5></focus:ring-blue-5>00',
+  primary: '<bg-blue-600></bg-blue-600>00 hover:bg-blue-600 text-white <focus:ring-blue-5></focus:ring-blue-5>00',
   secondary: 'bg-gray-300 hover:bg-gray-400  text-gray-800 focus:ring-gray-400',
   danger: 'bg-red-500 hover:bg-red-600 text white focus:ring-red-400',
   disabled: 'bg-gray-200 text-gray-400 cursor-not-allowed',
